@@ -10,5 +10,3 @@ PRODUCT_MAKEFILES := \
 
 COMMON_LUNCH_CHOICES := \
     omni_TECNO-KC8-user \
-    omni_TECNO-KC8-userdebug \
-    omni_TECNO-KC8-eng
